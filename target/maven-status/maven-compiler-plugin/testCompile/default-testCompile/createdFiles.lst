@@ -1,0 +1,4 @@
+testcases\BaseClass.class
+objects\SauceDemoLoginObjects.class
+pages\SauceDemoLoginPage.class
+testcases\SauceDemoLoginTC.class
